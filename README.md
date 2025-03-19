@@ -43,6 +43,8 @@ This template helps you quickly set up a **React** app using **Vite** with **Tai
 
 For a better development experience, especially for autocompletion and error checking in your Tailwind classes, install the **Tailwind CSS IntelliSense** extension in your code editor. This makes working with Tailwind easier and more efficient.
 
+copy the tailwind.config.js from the /src folder
+
 to make the the tailwind.config.js to work
 
 
